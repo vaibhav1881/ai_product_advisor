@@ -1,6 +1,8 @@
 import { PRODUCT_CATALOG } from './data';
 
-const API_KEY = 'AIzaSyBljXPUT8FCUkBRmwCbDQSA7fzhzuMv5Z4'; // Replace with your actual API key
+// In Expo, environment variables are accessed via process.env
+// For web targets, you need to prefix with EXPO_PUBLIC_ in the .env file
+const API_KEY = process.env.EXPO_PUBLIC_API_KEY || process.env.API_KEY || 'YOUR_API_KEY_HERE'; // Use environment variable or placeholder
 const API_URL = 'https://api.generativeai.com/v1/models/gemini-pro:generateContent'; // Replace with your AI model endpoint
 
 const fetchRecommendations = async (userQuery) => {

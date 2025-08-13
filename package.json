@@ -1,0 +1,15 @@
+{
+  "name": "ai-product-advisor",
+  "version": "1.0.0",
+  "description": "AI Product Advisor React Native App",
+  "main": "App.js",
+  "scripts": {
+    "test:api": "node test-api.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@expo/ngrok": "^4.1.0"
+  }
+}

@@ -17,3 +17,6 @@ dist/
 .DS_Store
 /ios/
 /android/
+
+# Environment variables
+.env
