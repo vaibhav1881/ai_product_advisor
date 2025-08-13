@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+dist/
+.idea/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Misc
+.DS_Store
+/ios/
+/android/

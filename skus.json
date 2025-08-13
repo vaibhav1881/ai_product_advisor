@@ -1,0 +1,37 @@
+[
+  {
+    "brand": "TechMaster",
+    "product_name": "UltraBook Pro X",
+    "price": 1499.99,
+    "category": "Laptops",
+    "description": "A high-performance laptop with a 15-inch 4K display, 32GB RAM, 1TB SSD, and a powerful new-gen processor. Great for professionals and creatives."
+  },
+  {
+    "brand": "GlobeTrotter",
+    "product_name": "TravelLite 13",
+    "price": 899.00,
+    "category": "Laptops",
+    "description": "An extremely lightweight and portable laptop with a 13-inch screen and up to 20 hours of battery life. Perfect for frequent travelers."
+  },
+  {
+    "brand": "Gamer's Choice",
+    "product_name": "Legion X",
+    "price": 2100.50,
+    "category": "Laptops",
+    "description": "A top-tier gaming laptop with a high-refresh-rate screen, dedicated graphics card, and advanced cooling system."
+  },
+  {
+    "brand": "Connecta",
+    "product_name": "PhoneMax 12",
+    "price": 999.00,
+    "category": "Smartphones",
+    "description": "A flagship smartphone with a stunning OLED display, professional-grade camera system, and all-day battery life."
+  },
+  {
+    "brand": "BudgetFriendly",
+    "product_name": "Smarty E",
+    "price": 299.00,
+    "category": "Smartphones",
+    "description": "An affordable smartphone that covers all the essentials, with a large screen, decent camera, and long-lasting battery."
+  }
+]
